@@ -14,3 +14,5 @@ http.createServer(function (request,response) {
   }).listen(8888)
 
 // 接收请求与响应请求 服务器很容易创建，客户端可以使用浏览器或终端发送 HTTP 请求，服务器接收请求后返回响应数据。
+// 终端打印如下信息
+console.log('Server running at http://127.0.0.1:8888/');
