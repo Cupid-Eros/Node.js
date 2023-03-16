@@ -1,1 +1,0 @@
-//nvm(Node Version Manager) use 4.2.2
